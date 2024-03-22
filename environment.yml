@@ -5,14 +5,14 @@ channels:
 
 dependencies:
   # Base language runtimes
-  - python=3.9
+  - python >=3.9
 
   # Python packages
   - bottleneck
   - cartopy
   - configobj
   - dask
-  - gdal=3.3
+  - gdal >=3.3
   - geopandas
   - ipython
   - jupyter
