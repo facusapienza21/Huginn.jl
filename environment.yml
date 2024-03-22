@@ -36,7 +36,7 @@ dependencies:
   - scikit-image
   - scikit-learn
   - scipy
-  - tables
+  - pytables
   - xarray
   
   # Packages installed through pip
