@@ -36,7 +36,7 @@ dependencies:
   - scikit-image
   - scikit-learn
   - scipy
-  # - pytables >=3.8
+  - pytables >=3.8
   - xarray
   
   # Packages installed through pip
