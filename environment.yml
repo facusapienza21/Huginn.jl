@@ -36,6 +36,7 @@ dependencies:
   - scikit-image
   - scikit-learn
   - scipy
+  - tables >=3.8
   - xarray
   
   # Packages installed through pip
